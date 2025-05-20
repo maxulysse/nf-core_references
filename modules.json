@@ -90,6 +90,11 @@
                         "git_sha": "4d329b41d14a20dec31cae811f39e1a52b435220",
                         "installed_by": ["prepare_genome_dnaseq"]
                     },
+                    "cat/cat": {
+                        "branch": "main",
+                        "git_sha": "de7c728270da230b663bb0d659b04afd4662aba7",
+                        "installed_by": ["modules"]
+                    },
                     "dragmap/hashtable": {
                         "branch": "main",
                         "git_sha": "45771824ae473165222af14becffa213448a5edc",
